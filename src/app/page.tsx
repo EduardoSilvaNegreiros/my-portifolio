@@ -1,7 +1,9 @@
+import { Header } from "./components/header/header";
 
 export default function Home() {
   return (
    <main>
+    <Header/>
     <div className="experience">
       <h3>experience</h3>
       <p>texto</p>
