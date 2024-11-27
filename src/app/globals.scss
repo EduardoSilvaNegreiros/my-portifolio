@@ -1,7 +1,8 @@
-// :root {
-  
-// }
-
+:root {
+  --text-primary: white;
+  --text-secundary: #B3B3B3;
+  --bg-primary: #2C2C2C;
+}
 
 * {
   box-sizing: border-box;
@@ -15,5 +16,6 @@ body {
   overflow-x: hidden;
 }
 
-
-
+body {
+  background-color: var(--bg-primary);
+}
