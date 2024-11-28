@@ -1,33 +1,26 @@
+import Image from "next/image";
 import { Experience } from "./components/experience/experience";
 import { Header } from "./components/header/header";
+import { Info } from "./components/information/information";
 
 import "./styles/home.scss";
+import { EmailIcon } from "./components/icons/email-icon";
+import { SocialBtns } from "./components/social-btns/social-btns";
 
 export default function Home() {
   return (
     <main className="container">
       <Header />
-      <Experience/>
-      
+      <Experience />
+      <Info />
 
-        <div className="infos">
-          <h3>Languages</h3>
-          <div className="languages-info">
-            <span>EN - Intermediary</span>
-            <span>BR - Fluent</span>
-          </div>
-
-          <h3>Education</h3>
-          <div className="educational-info">
-            <span>🎓</span>
-            <span>Uninove</span>
-          </div>
-        </div>
-        <div className="buttons">
-          <div className="social"></div>
-          <button>Contact me</button>
-        </div>
-     
+      <div className="buttons">
+        <SocialBtns />
+        <a className="btn-primary" href="mailto:edunegreiross@gmail.com">
+          Fale comigo
+          <EmailIcon />
+        </a>
+      </div>
     </main>
   );
 }
