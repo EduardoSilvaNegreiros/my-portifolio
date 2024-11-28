@@ -13,10 +13,12 @@ export function Info() {
       <SectionTitle text="Education" />
       <div className="educational-info">
         <span>🎓</span>
+        <br />
         <span>
           Universidade Nove de Julho -{" "}
           <strong>Análise e Desenvolvimento de Sistemas</strong>
         </span>
+        <br />
         <span>
           CNA Jaraguá - <strong>Curso de Inglês (5 anos)</strong>
         </span>
