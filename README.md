@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Meu Portfólio Pessoal
 
-## Getting Started
+Bem-vindo ao repositório do meu portfólio pessoal! 🎉  
+Este projeto foi desenvolvido com o objetivo de apresentar meus trabalhos e habilidades, utilizando tecnologias modernas como **Next.js**, **TypeScript** e **Sass**.  
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Tecnologias Utilizadas
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **[Next.js](https://nextjs.org/):** Framework React para renderização server-side e geração de sites estáticos.  
+- **[TypeScript](https://www.typescriptlang.org/):** Superset do JavaScript que adiciona tipagem estática ao código, ajudando a evitar erros e aumentar a produtividade.  
+- **[Sass](https://sass-lang.com/):** Um poderoso pré-processador CSS que facilita a criação de estilos de maneira modular e reutilizável.  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 💡 Objetivos do Projeto
 
-## Learn More
+O principal objetivo deste portfólio foi criar uma página moderna, simples e funcional, onde eu pudesse consolidar o aprendizado dessas tecnologias. Além disso, o projeto me permitiu explorar boas práticas de desenvolvimento e conceitos fundamentais dessas ferramentas.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🧑‍🤝‍🧑 Agradecimentos
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Este projeto foi desenvolvido com a valiosa ajuda de **[Fernanda Kipper](https://www.linkedin.com/in/fernandakipper/)**, que colaborou com dicas, feedbacks e suporte técnico durante o processo de criação.  
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📚 O que Aprendi
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Durante o desenvolvimento deste projeto, tive a oportunidade de aprender e aplicar:  
+1. Configuração e estrutura de um projeto Next.js.  
+2. Tipagem estática e componentes tipados com TypeScript.  
+3. Estilização modular e reutilizável utilizando Sass.  
+
+---
+
+## 🌟 Funcionalidades
+
+- Página inicial apresentando informações sobre mim.  
+- Seção de portfólio exibindo os projetos que desenvolvi.  
+- Layout responsivo, adaptado para diferentes tamanhos de tela.  
+
+---
+
+## 🛠️ Como Rodar o Projeto
+
+1. Clone este repositório:  
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
