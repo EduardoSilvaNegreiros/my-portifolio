@@ -3,6 +3,7 @@ import "./information.scss";
 
 export function Info() {
   return (
+
     <div className="infos">
       <SectionTitle text="Languages" />
       <div className="languages-info">
@@ -11,6 +12,7 @@ export function Info() {
       </div>
 
       <SectionTitle text="Education" />
+
       <div className="educational-info">
         <span>🎓</span>
         <br />
@@ -32,6 +34,7 @@ export function Info() {
         <span>
           <strong>Curso de JavaScript e TypeScript (Básico ao Avançado)</strong>
         </span>
+        
       </div>
     </div>
   );
