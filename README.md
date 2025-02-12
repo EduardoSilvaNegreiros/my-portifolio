@@ -42,8 +42,4 @@ Durante o desenvolvimento deste projeto, tive a oportunidade de aprender e aplic
 
 ---
 
-## 🛠️ Como Rodar o Projeto
 
-1. Clone este repositório:  
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
