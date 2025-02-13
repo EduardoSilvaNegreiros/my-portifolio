@@ -37,6 +37,7 @@ export function Experience() {
             <div className="experience-measure measure-1">1 ano</div>
           </div>
         </div>
+        
         <div className="experience-language">
           <Image
             src="/TypescriptLogo.png"
@@ -45,6 +46,7 @@ export function Experience() {
             height={40}
             priority
           />
+
           <div className="experience-unit">
             <div className="experience-measure measure-1">
               <span>1 ano</span>
@@ -57,6 +59,9 @@ export function Experience() {
           <div className="experience-unit">
             <div className="experience-measure measure-1">1 ano</div>
           </div>
+
+
+          
         </div>
       </div>
     </div>

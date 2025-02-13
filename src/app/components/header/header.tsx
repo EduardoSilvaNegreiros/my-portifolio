@@ -11,8 +11,8 @@ export function Header() {
       </div>
 
       <Image
-        src="/perfil.png"
-        alt="Vercel logo"
+        src="/profile-pic.png"
+        alt="Foto de perfil"
         width={325}
         height={310}
         priority
