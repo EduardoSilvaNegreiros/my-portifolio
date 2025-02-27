@@ -1,5 +1,7 @@
 # Meu Portfólio Pessoal
 
+![Meu Portfólio](assets/portifolio.png)
+
 Bem-vindo ao repositório do meu portfólio pessoal! 🎉  
 Este projeto foi desenvolvido com o objetivo de apresentar meus trabalhos e habilidades, utilizando tecnologias modernas como **Next.js**, **TypeScript** e **Sass**.  
 
@@ -19,9 +21,11 @@ O principal objetivo deste portfólio foi criar uma página moderna, simples e f
 
 ---
 
-## 🧑‍🤝‍🧑 Agradecimentos
+## 🌟 Funcionalidades
 
-Este projeto foi desenvolvido com a valiosa ajuda de **[Fernanda Kipper](https://www.linkedin.com/in/fernandakipper/)**, que colaborou com dicas, feedbacks e suporte técnico durante o processo de criação.  
+✅ Página inicial apresentando informações sobre mim.  
+✅ Seção de portfólio exibindo os projetos que desenvolvi.  
+✅ Layout responsivo, adaptado para diferentes tamanhos de tela.  
 
 ---
 
@@ -34,12 +38,4 @@ Durante o desenvolvimento deste projeto, tive a oportunidade de aprender e aplic
 
 ---
 
-## 🌟 Funcionalidades
-
-- Página inicial apresentando informações sobre mim.  
-- Seção de portfólio exibindo os projetos que desenvolvi.  
-- Layout responsivo, adaptado para diferentes tamanhos de tela.  
-
----
-
-
+🚀 **Sinta-se à vontade para explorar, contribuir e deixar seu feedback!**  
