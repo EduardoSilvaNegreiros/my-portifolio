@@ -14,13 +14,19 @@ export function Info() {
       <SectionTitle text="Education" />
 
       <div className="educational-info">
-        <span>🎓</span>
-        <br />
         <span>
           Universidade Nove de Julho -{" "}
           <strong>Análise e Desenvolvimento de Sistemas</strong>
           <br />
           Início: 02/2024 - Conclusão: 08/2026
+        </span>
+        <br />
+
+        <span>
+          ETEC Gildo Marçal Bezerra Brandão -{" "}
+          <strong>Técnico em Administração</strong>
+          <br />
+          Conclusão: 2023
         </span>
         <br />
 
@@ -31,7 +37,26 @@ export function Info() {
         </span>
         <br />
 
+<<<<<<< HEAD
         <span>Curso de JavaScript e TypeScript (Básico ao Avançado)</span>
+=======
+        <span>
+          Udemy -{" "}
+          <strong>Curso de JavaScript e TypeScript (Básico ao Avançado)</strong>
+        </span>
+        <br />
+
+        <span>
+          Udemy -{" "}
+          <strong>Laravel 11: Framework, Ecossistema e Projetos Web</strong>
+        </span>
+        <br />
+
+        <span>
+          Udemy -{" "}
+          <strong>Algoritmos e Lógica de Programação - O Curso COMPLETO</strong>
+        </span>
+>>>>>>> 6104191ab3350903d4ee4ba1f5e4a69c58fdcbe6
       </div>
     </div>
   );

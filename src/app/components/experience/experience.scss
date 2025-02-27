@@ -3,7 +3,7 @@
   flex-direction: column;
   align-items: center;
   max-width: 500px;
-  gap: 24px;
+  gap: 40px;
   grid-area: experience;
 
   p {
@@ -19,14 +19,14 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    gap: 8px;
+    gap: 20px;
   }
 
   .experience-language {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 8px;
+    gap: 10px;
 
     img {
       filter: grayscale(100%);
@@ -75,7 +75,7 @@
 
   @media (min-width: 768px) {
     align-items: flex-start;
-    margin-top: -700px;
+    margin-top: -1200px;
     padding-top: 20px;
 
     p {
