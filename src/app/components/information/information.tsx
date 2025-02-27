@@ -1,9 +1,9 @@
 import { SectionTitle } from "../sectionTitle/section-title";
 import "./information.scss";
 
+
 export function Info() {
   return (
-
     <div className="infos">
       <SectionTitle text="Languages" />
       <div className="languages-info">
@@ -31,10 +31,7 @@ export function Info() {
         </span>
         <br />
 
-        <span>
-          <strong>Curso de JavaScript e TypeScript (Básico ao Avançado)</strong>
-        </span>
-        
+        <span>Curso de JavaScript e TypeScript (Básico ao Avançado)</span>
       </div>
     </div>
   );
