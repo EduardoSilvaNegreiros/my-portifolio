@@ -24,7 +24,6 @@ O principal objetivo deste portfólio foi criar uma página moderna, simples e f
 ## 🌟 Funcionalidades
 
 ✅ Página inicial apresentando informações sobre mim.  
-✅ Seção de portfólio exibindo os projetos que desenvolvi.  
 ✅ Layout responsivo, adaptado para diferentes tamanhos de tela.  
 
 ---
